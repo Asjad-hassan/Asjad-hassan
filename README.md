@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Asjad-hassan
+- 👋 Hi, I’m Asjad Hassan
 - 👀 I’m interested in CyberSecurity and Penetration Testing.
 - 🌱 I’m currently learning In BSIT as well as doing some online courses focused on cybersecurity.
 <!---
