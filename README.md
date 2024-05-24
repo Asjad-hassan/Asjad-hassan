@@ -1,6 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m Asjad Hassan<br>- ᴄʏʙᴇʀꜱᴇᴄᴜʀɪᴛʏ ᴀɴᴀʟʏꜱᴛ : ᴅᴇᴠᴇʟᴏᴘɪɴɢ ꜱᴋɪʟʟꜱ ᴛᴏ ꜱᴀꜰᴇɢᴜᴀʀᴅ ᴛʜᴇ ᴅɪɢɪᴛᴀʟ ᴡᴏʀʟᴅ |<br> ᴘᴇɴᴇᴛʀᴀᴛɪᴏɴ ᴛᴇꜱᴛᴇʀ | ᴇʜᴇ | ɴᴅᴇ | ꜰʀᴏɴᴛ ᴇɴᴅ ᴅᴇᴠᴇʟᴏᴘᴇʀ
-
+- 👋 Hi, I’m Asjad Hassan<br>- ꜰʀᴏɴᴛ-ᴇɴᴅ ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴇʀ | ᴄʀᴀꜰᴛɪɴɢ ᴅɪɢɪᴛᴀʟ ᴇxᴘᴇʀɪᴇɴᴄᴇꜱ ᴡɪᴛʜ ᴘʀᴇᴄɪꜱɪᴏɴ ᴀɴᴅ ᴘᴀꜱꜱɪᴏɴ ✨💻🌟
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/the.shadowboi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sudo.asjad) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asjad-hassan) 
